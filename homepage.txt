@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>RockyBooks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>RockyBooks</h1>
+    <nav>
+      <a href="login.html">Login</a>
+      <a href="books.html">Books</a>
+    </nav>
+  </header>
+
+  <section class="categories">
+    <h2>Categories</h2>
+    <div class="grid">
+      <div class="category"><img src="images/fiction.jpg" alt="Fiction"/><p>Fiction</p></div>
+      <div class="category"><img src="images/nonfiction.jpg" alt="Non-fiction"/><p>Non-fiction</p></div>
+      <div class="category"><img src="images/thriller.jpg" alt="Thriller"/><p>Thriller</p></div>
+      <div class="category"><img src="images/motivational.jpg" alt="Motivational"/><p>Motivational</p></div>
+      <div class="category"><img src="images/selfhelp.jpg" alt="Self-help"/><p>Self-help</p></div>
+    </div>
+  </section>
+</body>
+</html>

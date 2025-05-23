@@ -1,0 +1,13 @@
+rockybooks/
+├── index.html
+├── login.html
+├── books.html
+├── order.html
+├── payment.html
+├── style.css
+└── images/
+    ├── fiction.jpg
+    ├── nonfiction.jpg
+    ├── thriller.jpg
+    ├── motivational.jpg
+    └── selfhelp.jpg

@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #f0f2f2;
+}
+
+header {
+  background-color: #232f3e;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.categories {
+  padding: 20px;
+  text-align: center;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.category {
+  margin: 15px;
+  width: 150px;
+}
+
+.category img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.category p {
+  margin-top: 8px;
+  font-weight: bold;
+}
